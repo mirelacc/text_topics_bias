@@ -1,48 +1,35 @@
 
-Machine Learning for NLP purposes
-(links + setup first experiments)
+Machine Learning for NLP and Sentiment analysis.
+Links + setup first tests.
 
+
+# -- DL intro & overview:
+
+http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
+
+- Using RNN vs CNN for NLP?
+
+Deep Learning for Natural Language Processing (Richard Socher, Salesforce)
+https://www.youtube.com/watch?v=oGk1v1jQITw 
+
+
+
+# -- NLP:
 
 Apache OpenNLP:
-
 http://opennlp.apache.org/
 
+http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
 
-X vs. Y:
-(w/ Tensorflow bias)
 
+# -- X vs. Y:
 
 https://www.quora.com/When-is-better-to-use-NLTK-vs-Sklearn-vs-Gensim 
-
 https://python.libhunt.com/project/tensorflow/vs/gensim
-
 https://python.libhunt.com/project/gensim/vs/tensorflow 
-
 www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html 
-
 https://groups.google.com/forum/#!topic/gensim/0GVxA055yOU
-
 https://deeplearning4j.org/compare-dl4j-torch7-pylearn
-
-
-
-Sentiment & topics: bias discovery
-
-Data/examples:
-
-https://www.kaggle.com/crowdflower/twitter-airline-sentiment
-https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
-exploring-airline-twitter-sentiment-data
-
-
-Context / Graphing for topic discovery:
-
-femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
-femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
-
-
-
-NLP + ML:
 
 Tensorflow:
 https://explosion.ai/blog/syntaxnet-in-context
@@ -62,6 +49,7 @@ Rule-based + statistical methods:
 http://dataconomy.com/ai-language-understanding/
 
 Text mining/NLP/Sentiment analysis:
+
 Prof. Bing Liu
 https://www.youtube.com/watch?v=6ki_F_5a5vg
 https://www.cs.uic.edu/~liub/teach/cs583-fall-16/cs583.html
@@ -69,25 +57,55 @@ https://www.cs.uic.edu/~liub/IJCAI15-tutorial.html
 (217 slides, on LML)
 www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf
 https://www.cs.uic.edu/~liub/lifelong-learning.html
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 http://ssix-project.eu/
 https://www.youtube.com/watch?v=Ccm2avJPnDQ
-
-NLP:
-http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
+ 
 
 Topic modeling:
 http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
 
-Sentiment:
+
+Context Matters When Text Mining
+ 
+http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
+
+
+http://openreview.net/forum?id=r1Ue8Hcxg
+http://barretzoph.github.io/ 
+http://github.com/isi-nlp/Zoph_RNN 
+https://github.com/isi-nlp/tutorials
+https://github.com/isi-nlp 
+www.isi.edu/research_groups/nlg/home
+
+
+# -- Sentiment for bias discovery
+
 http://www.kdnuggets.com/2016/10/emotion-analytics-why-important.html
 http://www.kdnuggets.com/2016/07/mining-twitter-data-python-part-6.html
 http://www.kdnuggets.com/2016/09/slangsd-sentiment-dictionary-slang-words.html
 http://www.kdnuggets.com/2016/09/trump-phenomenon-twitter-based-recount.html
 http://www.kdnuggets.com/2015/10/aspect-based-sentiment-analysis-competition.html
 
+Data/examples:
 
-Context Matters When Text Mining
- 
-http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
+exploring-airline-twitter-sentiment-data
+
+Context / Graphing for topic discovery:
+
+femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
+femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
+
+https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+
+
+
+
+
+
+
+
+

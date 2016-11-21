@@ -5,6 +5,8 @@ Links + setup first tests.
 
 # -- DL intro & overview:
 
+https://en.wikipedia.org/wiki/Natural_language_understanding
+
 http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
 
 - Using RNN vs CNN for NLP?

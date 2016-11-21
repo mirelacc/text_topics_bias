@@ -1,0 +1,165 @@
+
+
+# lt-accelerate 2016
+
+General:
+https://twitter.com/hashtag/LTA16?src=hash
+
+# Day 1: http://www.lt-accelerate.com/programme
+
+# Day 2:
+
+## Panel: Speech and Language Technologies for Media Processing
+## Chair: Susanne Weber, BBC
+## Speakers: Peggy van der Kreeft, Deutsche Welle - Matt Simpson, Ericsson - 
+## Alexandra Birch, University of Edinburgh - Maarten Verwaest, Limecraft
+
+The abundance of digital platforms makes information available in a great number of languages,
+and the expectation of users to be able to consume media in their own language is growing. 
+International broadcasters such as the BBC and Deutsche Welle increasingly reach out to their global audiences
+in multiple languages. As a result, content creation, monitoring and content delivery are heavily dependent on
+the availability of speech and language technologies such as Automatic Speech Recognition and Machine Translation.
+In this panel we want to discuss the state of the art of available language technologies for media processing 
+and look at the challenges for low resourced languages.
+
+Notes:
+
+
+## Fraunhofer Audio Mining: Solution for Broadcast Archiving
+## Speaker: Joachim Koehler, Fraunhofer
+
+This presenation shows the productive Fraunhofer Audio Mining solution used by the largest German broadcaster, WDR,
+to index and archive huge amounts of broadcast data. The presentation shows the technology based on Deep Neural 
+Networks, trainings procedures using very large speech corpora and the final solution integrated in a productive 
+broadcast environment. Further, the evaluation and the results of the usage of media experts are reported.
+
+Notes:
+
+
+## Text & Social Analytics for Research & Insights
+## Speaker: Jean-Francois Damais, Ipsos
+
+Jean-Francois will showcase how Text Analytics can be used to integrate different sources of data and 
+bring one holistic feedback voice within organisations.
+
+Notes:
+
+
+## How emotions drive customer relationships – a case study about personal banking in the US
+## Speakers: Lana Novikova, Heartbeat & Odile Jagsch, Kantar TNS
+
+In a partnered survey between Kantar TNS and Heartbeat AI Technologies (Canada) personal banking in the US 
+was investigated to find out if and how emotions drive customer relationships with banks. Kantar TNS launched 
+a survey to evaluate 5 US banks regarding their performance and the customers’ preference for a bank using TNS’ 
+one number KPI – the TRI*M Index. HEARTBEAT used its emotion text analytics application to extract emotions from 
+survey open-ends. Data showed that personal banking is far from being an unemotional affair, and that higher 
+TRI*M ratings for banks correlate with Love, Joy and Trust, while lower performing ones - with Sadness, Anger 
+and Fear. Emotion analytics is a new powerful tool to help CX experts understand the “why” behind customer loyalty.
+
+Notes:
+
+
+
+## Capturing Mixed Feelings with Fine Grained Sentiment Analysis
+## Speaker: Caroline Brun, Xerox Research Centre Europe
+
+The World Wide Web has become a global forum where people share their feelings about almost everything.
+Social media networks spread vast amounts of user-generated content, where millions of people's opinions are
+openly accessible. This content is of great value to policy makers, social scientists, and businesses. 
+Due to the sheer quantity of information and the diversity of comments, managing brand reputation and customer 
+relations will increasingly rely on technology that can automatically and reliably detect not simply binary 
+opinions, but also, more subtle, nuanced sentiments and mixed feelings. While most of the work in sentiment 
+analysis has primarily focused on classifying the overall polarity of user-generated documents, opinions or 
+sentiments are usually not one-dimensional but multi-dimensional. People often care differently about different 
+characteristics and features of products and services. There is a real need for organizations to understand what 
+these specific sentiments are so they can pinpoint and prioritize what to do e.g. change features, improve service
+or communicate differently. Aspect Based Sentiment Analysis (ABSA) is precisely about mining text and summarizing 
+the opinions expressed to ascertain the attitude of a speaker or writer toward specific entities (things) and 
+their aspects. The Xerox Research Centre Europe is exploring this challenging topic using a combination of 
+advanced natural language analysis with machine learning algorithms. We will briefly describe the topic, related 
+challenges and share our work on multilingual ABSA, including our participation to the SemEval 2016 international 
+Challenge in ABSA. We are currently looking to pilot the system with partners.
+
+Notes:
+
+
+
+## CoderRank: Creating Gold Standards
+## Speaker: Stuart Shulman, DiscoverText
+
+DiscoverText helps collect and clean messy Twitter data streams. Basic measurement tools improve human and 
+machine performance over time. Learn to reach and substantiate inferences using a theoretical and applied model 
+informed by a decade of interdisciplinary, National Science Foundation-funded research into the text classification
+problem. In particular, learn how to apply patented “CoderRank” methods when training crowd-sourced annotators to 
+create gold standard training sets for machine-learning. 
+
+Notes:
+
+
+
+## Data Conversation, Reinventing the Analysis Interface
+## Speaker: Christophe Bourguignat, Zelros
+
+Chatbots and conversational interfaces are the new big thing : they are intuitive, natural, and can be quickly
+deployed without downloading a new app. Use cases for enterprises are numerous : agenda management, customer 
+support, ... During this talk, we will focus on one particular B2B application : how intelligent assistants can 
+reinvent the way analysts and data scientists access and spread advanced data analytics across organizations. 
+We will describe a few scenarios and technological challenges like NLP and NLU in this type of context
+
+Notes:
+
+
+
+## Conversational Interaction for Business
+## Speaker: José Quesada, Letka AI
+
+
+Notes:
+
+## Healthcare IT and NLG: Great synergies ahead?
+## Speaker: Dirk Hueske-Kraus, Philips Healthcare
+
+
+Notes:
+
+## Transforming the Translation Environment – a Paradigm Shift in Productivity
+## Speaker: Matthias Heyn, SDL
+
+
+Notes:
+
+## Exploiting Market Sentiment to Create Daily Trading Signals
+## Speaker: Xiang Yu, OptiRisk
+
+
+Notes:
+
+## Classification and Estimation of Finance Relevant Topics in Social Media
+## Speaker: Marcus Hassler, EconoB
+ 
+ 
+Notes:
+ 
+## Assessing Consumer Financial Complaints using Text Analytics and Machine Learning
+## Speaker: Tom Sabo, SAS
+ 
+ 
+Notes:
+ 
+## Speaker: Jochen Hummel, ESTeam (Chairman of LT-Innovate)
+
+
+
+
+Notes:
+
+
+
+
+
+
+
+
+
+
+ 

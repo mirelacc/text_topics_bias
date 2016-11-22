@@ -1,0 +1,25 @@
+
+# -- Aspect based sentiment analysis (!)
+
+http://www.anthology.aclweb.org/S/S16/S16-1044.pdf
+
+http://www.aclweb.org/anthology/S14-2#page=858
+
+"a composite method based on ensemble modelling combined with rich linguistic 
+features including lexical semantic information and syntactico-semantic dependencies 
+to address aspect based category and polarity classification."
+
+
+# -- Sentiment for bias discovery
+
+http://www.kdnuggets.com/2016/10/emotion-analytics-why-important.html
+http://www.kdnuggets.com/2016/07/mining-twitter-data-python-part-6.html
+http://www.kdnuggets.com/2016/09/slangsd-sentiment-dictionary-slang-words.html
+http://www.kdnuggets.com/2016/09/trump-phenomenon-twitter-based-recount.html
+http://www.kdnuggets.com/2015/10/aspect-based-sentiment-analysis-competition.html
+
+Data/examples:
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
+exploring-airline-twitter-sentiment-data

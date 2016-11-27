@@ -114,6 +114,7 @@ Model evaluation, model selection, and algorithm selection in machine learning
 
 http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
 
+https://github.com/glample
 
 ML +  DC/HPC:
 http://stanford.edu/~rezab/

@@ -42,6 +42,15 @@ http://opennlp.apache.org/
 
 http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
 
+https://twitter.com/spacy_io 
+
+https://spacy.io/ 
+
+www.cs.cmu.edu/~sswayamd/ 
+
+https://github.com/clab/joint-lstm-parser
+
+
 
 -- Hybrid: (often works best)
 Rule-based + statistical methods:

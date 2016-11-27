@@ -12,6 +12,13 @@ http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
 Deep Learning for Natural Language Processing (Richard Socher, Salesforce)
 https://www.youtube.com/watch?v=oGk1v1jQITw 
 
+CNN's explained:
+
+https://www.youtube.com/watch?v=FmpDIaiMIeA
+
+A Beginner's Guide To Understanding Convolutional Neural Networks
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/?imm_mid=0e9900&cmp=em-data-na-na-newsltr_20161019
+
 
 # -- Topic modeling general:
 http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
@@ -88,6 +95,22 @@ http://cs224d.stanford.edu/assignment2/
 
 Tensorflow + binary classification:
 http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
+
+
+## - Misc DL:
+
+(seperate into new file!)
+
+Deconvolution and Checkerboard Artifacts
+http://distill.pub/2016/deconv-checkerboard/ 
+
+Deep Learning Demystified 
+https://www.youtube.com/watch?v=Q9Z20HCPnww
+
+ML +  DC/HPC:
+http://stanford.edu/~rezab/
+
+
 
 
 

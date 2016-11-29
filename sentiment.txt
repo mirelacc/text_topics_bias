@@ -2,18 +2,17 @@
 # -- Aspect based sentiment analysis (!)
 
 http://www.anthology.aclweb.org/S/S16/S16-1044.pdf
-
 http://www.aclweb.org/anthology/S14-2#page=858
 
-"a composite method based on ensemble modelling combined with rich linguistic 
-features including lexical semantic information and syntactico-semantic dependencies 
-to address aspect based category and polarity classification."
+"a composite method based on ensemble modelling combined with rich linguistic features including lexical semantic information and syntactico-semantic dependencies to address aspect based category and polarity classification."
 
 http://alt.qcri.org/semeval2016/task5/
 
 Deep Learning for Aspect-Based Sentiment Analysis
-https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjq4O6wrrQAhVJ1hQKHeDGCNAQFggpMAE&url=https%3A%2F%2Fcs224d.stanford.edu%2Freports%2FWangBo.pdf&usg=AFQjCNG46nX42eDVpKQIstbeTH8szJ8hBw&sig2=Bx00CjssCLaNG6VXq8_bDg
+https://www.google.nl/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjjq4O6wrrQAhVJ1hQKHeDGCNAQFggpMAE&url=https%3A%2F%2Fcs224d.stanford.edu%2Freports%2FWangBo.pdf&usg=AFQjCNG46nX42eDVpKQIstbeTH8szJ8hBw&sig2=Bx00CjssCLaNG6VXq8_bDg
 
+http://www.datasciencecentral.com/profiles/blogs/test?xg_source=activity
 
 # -- Sentiment for bias discovery
 
@@ -33,7 +32,10 @@ exploring-airline-twitter-sentiment-data
 # CSI - consumer sentiment index
 
 http://businessoverbroadway.com/in-a-word-the-customer-sentiment-index
-
+https://en.wikipedia.org/wiki/University_of_Michigan_Consumer_Sentiment_Index
+http://businessoverbroadway.com/in-a-word-the-customer-sentiment-index
+http://businessoverbroadway.com/development-of-the-customer-sentiment-index-reliability-validity-and-usefulness
+http://businessoverbroadway.com/author/bobhayes/page/2  
 
 
 # - Paste from https://spacy.io/
@@ -48,3 +50,4 @@ http://businessoverbroadway.com/in-a-word-the-customer-sentiment-index
 [8] https://www.semanticscholar.org/paper/4094cee47ade13b77b5ab4d2e6cb9dd2b8a2917c
 [9] http://spacy.io/blog/part-of-speech-POS-tagger-in-python/
 [10] http://spacy.io/blog/parsing-english-in-python/
+

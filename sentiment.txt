@@ -29,6 +29,12 @@ https://www.kaggle.com/benhamner/d/crowdflower/twitter-airline-sentiment/
 exploring-airline-twitter-sentiment-data
 
 
+# General Sentiment:
+
+http://www.datasciencecentral.com/profiles/blogs/test 
+www.datasciencecentral.com/profiles/blogs/sentiment-analysis-of-movie-reviews-2-word2vec?xg_source=activity
+www.datasciencecentral.com/profiles/blogs/opinion-mining-sentiment-analysis-and-beyond
+
 # CSI - consumer sentiment index
 
 http://businessoverbroadway.com/in-a-word-the-customer-sentiment-index

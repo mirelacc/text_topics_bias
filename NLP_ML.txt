@@ -4,8 +4,11 @@ Machine Learning for NLP.
 # -- DL intro & overview:
 
 https://en.wikipedia.org/wiki/Natural_language_understanding
-
 http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
+
+# NLP:
+
+https://www.quora.com/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read
 
 - Using RNN vs CNN for NLP?
 
@@ -13,12 +16,10 @@ Deep Learning for Natural Language Processing (Richard Socher, Salesforce)
 https://www.youtube.com/watch?v=oGk1v1jQITw 
 
 CNN's explained:
-
 https://www.youtube.com/watch?v=FmpDIaiMIeA
 
 A Beginner's Guide To Understanding Convolutional Neural Networks
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/?imm_mid=0e9900&cmp=em-data-na-na-newsltr_20161019
-
 
 # -- Topic modeling general:
 http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
@@ -26,31 +27,20 @@ http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
 Deep Belief Nets for Topic Modeling
 https://arxiv.org/abs/1501.04325
 
-
 Context / Graphing for topic discovery:
-
 femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
 femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
-
 https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
- 
 # -- NLP:
 
 Apache OpenNLP:
 http://opennlp.apache.org/
-
 http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
-
 https://twitter.com/spacy_io 
-
 https://spacy.io/ 
-
 www.cs.cmu.edu/~sswayamd/ 
-
 https://github.com/clab/joint-lstm-parser
-
-
 
 -- Hybrid: (often works best)
 Rule-based + statistical methods:
@@ -65,15 +55,12 @@ https://www.cs.uic.edu/~liub/IJCAI15-tutorial.html
 (217 slides, on LML)
 www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf
 https://www.cs.uic.edu/~liub/lifelong-learning.html
-
 http://ssix-project.eu/
 https://www.youtube.com/watch?v=Ccm2avJPnDQ
  
 
 Context Matters When Text Mining
- 
 http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
-
 
 http://openreview.net/forum?id=r1Ue8Hcxg
 http://barretzoph.github.io/ 
@@ -81,7 +68,6 @@ http://github.com/isi-nlp/Zoph_RNN
 https://github.com/isi-nlp/tutorials
 https://github.com/isi-nlp 
 www.isi.edu/research_groups/nlg/home
-
 
 # -- X vs. Y:
 
@@ -105,7 +91,6 @@ http://cs224d.stanford.edu/assignment2/
 Tensorflow + binary classification:
 http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
 
-
 ## - Misc DL:
 
 (seperate into new file!)
@@ -115,23 +100,16 @@ http://distill.pub/2016/deconv-checkerboard/
 
 Deep Learning Demystified 
 https://www.youtube.com/watch?v=Q9Z20HCPnww
-
 https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning
 
-
 Model evaluation, model selection, and algorithm selection in machine learning
-
 http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
-
 https://github.com/glample
 
 ML +  DC/HPC:
 http://stanford.edu/~rezab/
 
-
 machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-
 https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py 
-
 
 

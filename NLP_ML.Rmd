@@ -1,4 +1,15 @@
 
+
+https://www.youtube.com/watch?v=pY9EwZ02sXU 
+
+https://en.wikipedia.org/wiki/WordNet 
+
+https://en.wikipedia.org/wiki/Word2vec 
+
+https://en.wikipedia.org/wiki/Latent_semantic_analysis
+
+
+
 Machine Learning for NLP.
 
 # -- DL intro & overview:

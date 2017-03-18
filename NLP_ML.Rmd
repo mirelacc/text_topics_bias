@@ -1,176 +1,112 @@
 
+NLP:
 
-https://www.youtube.com/watch?v=pY9EwZ02sXU 
+- https://en.wikipedia.org/wiki/WordNet 
+- https://en.wikipedia.org/wiki/Word2vec 
+- https://en.wikipedia.org/wiki/Latent_semantic_analysis
+- https://www.youtube.com/watch?v=pY9EwZ02sXU 
+- https://github.com/jiweil?tab=repositories 
+- https://web.stanford.edu/~jiweil/
+- https://www.quora.com/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read
+- Apache OpenNLP: http://opennlp.apache.org/
+- http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
+- https://twitter.com/spacy_io 
+- https://spacy.io/ 
+- www.cs.cmu.edu/~sswayamd/ 
+- https://github.com/clab/joint-lstm-parser
+- http://timalthoff.com/
+- https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html?m=1 
 
-https://en.wikipedia.org/wiki/WordNet 
+Propagation & NLP:
 
-https://en.wikipedia.org/wiki/Word2vec 
-
-https://en.wikipedia.org/wiki/Latent_semantic_analysis
-
+- http://twitter.mpi-sws.org/
+- https://qz.com/465820/how-brand-new-words-are-spreading-across-america/
 
 
-Machine Learning for NLP.
+# Topic modeling general:
 
-# -- DL intro & overview:
-
-https://en.wikipedia.org/wiki/Natural_language_understanding
-
-http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
-
-# NLP:
-
-https://www.quora.com/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read
-
-- Using RNN vs CNN for NLP?
-
-Deep Learning for Natural Language Processing (Richard Socher, Salesforce)
-
-https://www.youtube.com/watch?v=oGk1v1jQITw 
-
-CNN's explained:
-
-https://www.youtube.com/watch?v=FmpDIaiMIeA
-
-A Beginner's Guide To Understanding Convolutional Neural Networks
-
-https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/?imm_mid=0e9900&cmp=em-data-na-na-newsltr_20161019
-
-# -- Topic modeling general:
-
-http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
+- http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
 
 Deep Belief Nets for Topic Modeling
 
-https://arxiv.org/abs/1501.04325
+- https://arxiv.org/abs/1501.04325
 
 Context / Graphing for topic discovery:
 
-femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
+- femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html 
+- femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
+- https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
-femvestor.blogspot.nl/2016/07/brexit-what-can-we-learn-from-graphing.html
+Hybrid: (often works best)
 
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+- Rule-based + statistical methods: http://dataconomy.com/ai-language-understanding/
 
-# -- NLP:
+# Text mining/NLP/Sentiment analysis:
 
-Apache OpenNLP:
-
-http://opennlp.apache.org/
-
-http://www.kdnuggets.com/2016/06/inside-update-natural-language-processing.html
-
-https://twitter.com/spacy_io 
-
-https://spacy.io/ 
-
-www.cs.cmu.edu/~sswayamd/ 
-
-https://github.com/clab/joint-lstm-parser
-
--- Hybrid: (often works best)
-
-Rule-based + statistical methods:
-
-http://dataconomy.com/ai-language-understanding/
-
-
-Text mining/NLP/Sentiment analysis:
-
-Prof. Bing Liu
-
-https://www.youtube.com/watch?v=6ki_F_5a5vg
-
-https://www.cs.uic.edu/~liub/teach/cs583-fall-16/cs583.html
-
-https://www.cs.uic.edu/~liub/IJCAI15-tutorial.html
-
-(217 slides, on LML)
-
-www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf
-
-https://www.cs.uic.edu/~liub/lifelong-learning.html
-
-http://ssix-project.eu/
-
-https://www.youtube.com/watch?v=Ccm2avJPnDQ
-
+- Prof. Bing Liu https://www.youtube.com/watch?v=6ki_F_5a5vg
+- https://www.cs.uic.edu/~liub/teach/cs583-fall-16/cs583.html
+- https://www.cs.uic.edu/~liub/IJCAI15-tutorial.html
+- (217 slides, on LML) www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf
+- https://www.cs.uic.edu/~liub/lifelong-learning.html
+- http://ssix-project.eu/
+- https://www.youtube.com/watch?v=Ccm2avJPnDQ
 
 Context Matters When Text Mining
 
-http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
+- http://femvestor.blogspot.nl/2016/10/why-you-should-care-about-context-when_20.html
+- http://openreview.net/forum?id=r1Ue8Hcxg
+- http://barretzoph.github.io/ 
+- http://github.com/isi-nlp/Zoph_RNN 
+- https://github.com/isi-nlp/tutorials
+- https://github.com/isi-nlp 
+- www.isi.edu/research_groups/nlg/home
 
-http://openreview.net/forum?id=r1Ue8Hcxg
 
-http://barretzoph.github.io/ 
+# Machine Learning for NLP
 
-http://github.com/isi-nlp/Zoph_RNN 
+DL intro & overview:
 
-https://github.com/isi-nlp/tutorials
+- https://en.wikipedia.org/wiki/Natural_language_understanding
+- http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
 
-https://github.com/isi-nlp 
+Opinion mining
 
-www.isi.edu/research_groups/nlg/home
+- https://github.com/oir/deep-recurrent
+- Deep Learning for Natural Language Processing (Richard Socher, Salesforce) https://www.youtube.com/watch?v=oGk1v1jQITw 
+- CNN's explained https://www.youtube.com/watch?v=FmpDIaiMIeA
+-  A Beginner's Guide To Understanding Convolutional Neural Networks https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/?imm_mid=0e9900&cmp=em-data-na-na-newsltr_20161019
+- Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow https://github.com/sdwfrost/char-rnn-tensorflow
 
-# -- X vs. Y:
 
-https://www.quora.com/When-is-better-to-use-NLTK-vs-Sklearn-vs-Gensim 
+X vs. Y:
 
-https://python.libhunt.com/project/tensorflow/vs/gensim
-
-https://python.libhunt.com/project/gensim/vs/tensorflow 
-
-www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html 
-
-https://groups.google.com/forum/#!topic/gensim/0GVxA055yOU
-
-https://deeplearning4j.org/compare-dl4j-torch7-pylearn
+- https://www.quora.com/When-is-better-to-use-NLTK-vs-Sklearn-vs-Gensim
+- https://python.libhunt.com/project/tensorflow/vs/gensim
+- https://python.libhunt.com/project/gensim/vs/tensorflow 
+- www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html 
+- https://groups.google.com/forum/#!topic/gensim/0GVxA055yOU
+- https://deeplearning4j.org/compare-dl4j-torch7-pylearn
 
 Tensorflow:
 
-https://explosion.ai/blog/syntaxnet-in-context
+- https://explosion.ai/blog/syntaxnet-in-context
+- jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html (!)
+- Tensorflow + CNN's http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+- Tensorflow + RNN's http://cs224d.stanford.edu/assignment2/
+- Tensorflow + binary classification http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
 
-jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html (!)
+Misc DL:
 
-
-Tensorflow + CNN's
-
-http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
-
-Tensorflow + RNN's
-
-http://cs224d.stanford.edu/assignment2/
-
-Tensorflow + binary classification:
-
-http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html
-
-## - Misc DL:
-
-(seperate into new file!)
-
-Deconvolution and Checkerboard Artifacts
-
-http://distill.pub/2016/deconv-checkerboard/ 
-
-Deep Learning Demystified 
-
-https://www.youtube.com/watch?v=Q9Z20HCPnww
-
-https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning
-
-Model evaluation, model selection, and algorithm selection in machine learning
-
-http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
-
-https://github.com/glample
+- Deconvolution and Checkerboard Artifacts http://distill.pub/2016/deconv-checkerboard/ 
+- Deep Learning Demystified https://www.youtube.com/watch?v=Q9Z20HCPnww
+- https://www.oreilly.com/ideas/the-hard-thing-about-deep-learning Model evaluation, model selection, and algorithm selection in machine learning
+- http://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
+- https://github.com/glample
 
 ML +  DC/HPC:
 
-http://stanford.edu/~rezab/
-
-machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-
-https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py 
+- http://stanford.edu/~rezab/
+- machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+- https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py 
 
 

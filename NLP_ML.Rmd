@@ -24,9 +24,13 @@ Propagation & NLP:
 - https://qz.com/465820/how-brand-new-words-are-spreading-across-america/
 
 
-# Topic modeling general:
+Topic modeling general:
 
 - http://www.kdnuggets.com/2016/07/americas-next-topic-model.html
+- https://www.quora.com/Is-LDA-latent-dirichlet-allocation-unsupervised-or-supervised-learning
+- https://www.quora.com/What-are-the-best-techniques-apart-from-LDA-to-categorise-tweets-in-an-unsupervised-manner
+- https://www.quora.com/What-are-some-good-papers-about-topic-modeling-on-Tweets
+- https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation
 
 Deep Belief Nets for Topic Modeling
 
@@ -42,7 +46,8 @@ Hybrid: (often works best)
 
 - Rule-based + statistical methods: http://dataconomy.com/ai-language-understanding/
 
-# Text mining/NLP/Sentiment analysis:
+
+Text mining/NLP/Sentiment analysis:
 
 - Prof. Bing Liu https://www.youtube.com/watch?v=6ki_F_5a5vg
 - https://www.cs.uic.edu/~liub/teach/cs583-fall-16/cs583.html
@@ -63,7 +68,7 @@ Context Matters When Text Mining
 - www.isi.edu/research_groups/nlg/home
 
 
-# Machine Learning for NLP
+Machine Learning for NLP
 
 DL intro & overview:
 

@@ -1,4 +1,8 @@
 
+News:
+
+- https://www.oreilly.com/ideas/natural-language-analysis-using-hierarchical-temporal-memory
+
 NLP:
 
 - Start w/ tidy text: http://juliasilge.com/blog/Tidy-Text-Mining/

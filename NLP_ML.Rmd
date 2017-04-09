@@ -5,7 +5,12 @@ News:
 - A Neural Knowledge Language Model https://arxiv.org/pdf/1608.00318.pdf
 - Contextual LSTM (CLSTM) models for Large scale NLP tasks https://arxiv.org/pdf/1602.06291.pdf
 - Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation https://arxiv.org/pdf/1609.08144.pdf
+
+Advancements in tools:
+
 - https://medium.com/intuitionmachine/googles-ai-processor-is-inspired-by-the-heart-d0f01b72defe
+- https://techcrunch.com/2017/04/05/google-says-its-custom-machine-learning-chips-are-often-15-30x-faster-than-gpus-and-cpus/?ncid=rss
+
 
 NLP:
 

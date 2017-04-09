@@ -2,6 +2,10 @@
 News:
 
 - https://www.oreilly.com/ideas/natural-language-analysis-using-hierarchical-temporal-memory
+- A Neural Knowledge Language Model https://arxiv.org/pdf/1608.00318.pdf
+- Contextual LSTM (CLSTM) models for Large scale NLP tasks https://arxiv.org/pdf/1602.06291.pdf
+- Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation https://arxiv.org/pdf/1609.08144.pdf
+- https://medium.com/intuitionmachine/googles-ai-processor-is-inspired-by-the-heart-d0f01b72defe
 
 NLP:
 
@@ -96,6 +100,9 @@ X vs. Y:
 - www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html 
 - https://groups.google.com/forum/#!topic/gensim/0GVxA055yOU
 - https://deeplearning4j.org/compare-dl4j-torch7-pylearn
+- https://github.com/fchollet/keras 
+- www.caffe.berkeleyvision.org 
+
 
 Tensorflow:
 

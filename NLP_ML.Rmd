@@ -44,6 +44,7 @@ Topic modeling general:
 - https://www.quora.com/What-are-the-best-techniques-apart-from-LDA-to-categorise-tweets-in-an-unsupervised-manner
 - https://www.quora.com/What-are-some-good-papers-about-topic-modeling-on-Tweets
 - https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation
+- http://www.emilyinamillion.me/blog/2016/7/13/visualizing-supreme-court-topics-over-time
 
 Deep Belief Nets for Topic Modeling
 

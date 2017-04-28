@@ -17,6 +17,9 @@ Sentiment for bias discovery
 - http://www.kdnuggets.com/2016/09/slangsd-sentiment-dictionary-slang-words.html
 - http://www.kdnuggets.com/2016/09/trump-phenomenon-twitter-based-recount.html
 - http://www.kdnuggets.com/2015/10/aspect-based-sentiment-analysis-competition.html
+- Human language reveals a universal positivity bias http://www.pnas.org/content/112/8/2389.full
+- A Large Self-Annotated Corpus for Sarcasm https://arxiv.org/pdf/1704.05579.pdf
+
 
 Data/examples:
 
